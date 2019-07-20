@@ -1,0 +1,11 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'projekty-jedrek'
+include 'kodilla-testing'
+include 'point-of-sale'
+include 'revision_logging'
+include 'revision_streams_and_methods'
+
